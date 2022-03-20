@@ -9,10 +9,10 @@ GridLn is a compiler that compiles GDI+ graphics instructions in a human-readabl
 > Headers start with a "!", they provide certain flags and values for the
 compiler.
 
-* <pre>WID INT   : Sets the width ( in pixels ) of the output file
-* <pre>HEI INT   : Sets the height ( in pixels ) of the output file
-* <pre>BGC R G B : Sets the background color to an RGB value.
-* <pre>OUT STR   : Sets the output file ( not relative )
+* <pre>WID INT   : Sets the width ( in pixels ) of the output file</pre>
+* <pre>HEI INT   : Sets the height ( in pixels ) of the output file</pre>
+* <pre>BGC R G B : Sets the background color to an RGB value.</pre>
+* <pre>OUT STR   : Sets the output file ( not relative )</pre>
 
 ### Functions:
 
